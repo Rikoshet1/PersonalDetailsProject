@@ -1,0 +1,51 @@
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.deps.json
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.runtimeconfig.json
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.dll
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.pdb
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Repositories.dll
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Repositories.pdb
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfo.cs
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CopyComplete
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.dll
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Context\obj\Debug\net6.0\refint\MyProject.Context.dll
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.pdb
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.genruntimeconfig.cache
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Context\obj\Debug\net6.0\ref\MyProject.Context.dll
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.deps.json
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.runtimeconfig.json
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.dll
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.pdb
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Repositories.dll
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Repositories.pdb
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.AssemblyReference.cache
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfoInputs.cache
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfo.cs
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CoreCompileInputs.cache
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CopyComplete
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.dll
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Context\obj\Debug\net6.0\refint\MyProject.Context.dll
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.pdb
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.genruntimeconfig.cache
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Context\obj\Debug\net6.0\ref\MyProject.Context.dll
+E:\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.deps.json
+E:\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.runtimeconfig.json
+E:\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.dll
+E:\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Context.pdb
+E:\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Repositories.dll
+E:\MyProject\MyProject.Context\bin\Debug\net6.0\MyProject.Repositories.pdb
+E:\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.AssemblyReference.cache
+E:\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfoInputs.cache
+E:\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.AssemblyInfo.cs
+E:\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CoreCompileInputs.cache
+E:\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.csproj.CopyComplete
+E:\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.dll
+E:\MyProject\MyProject.Context\obj\Debug\net6.0\refint\MyProject.Context.dll
+E:\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.pdb
+E:\MyProject\MyProject.Context\obj\Debug\net6.0\MyProject.Context.genruntimeconfig.cache
+E:\MyProject\MyProject.Context\obj\Debug\net6.0\ref\MyProject.Context.dll

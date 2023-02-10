@@ -1,0 +1,36 @@
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.deps.json
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.dll
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.pdb
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.AssemblyInfo.cs
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.dll
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Common\obj\Debug\net6.0\refint\MyProject.Common.dll
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.pdb
+C:\Users\user1\Documents\ריקי\MyProject\MyProject.Common\obj\Debug\net6.0\ref\MyProject.Common.dll
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.deps.json
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.dll
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.pdb
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.csproj.AssemblyReference.cache
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.AssemblyInfoInputs.cache
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.AssemblyInfo.cs
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.csproj.CoreCompileInputs.cache
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.dll
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Common\obj\Debug\net6.0\refint\MyProject.Common.dll
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.pdb
+Y:\Groups\1\גרינולד רבקה\MyProject\MyProject.Common\obj\Debug\net6.0\ref\MyProject.Common.dll
+E:\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.deps.json
+E:\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.dll
+E:\MyProject\MyProject.Common\bin\Debug\net6.0\MyProject.Common.pdb
+E:\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.csproj.AssemblyReference.cache
+E:\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.AssemblyInfoInputs.cache
+E:\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.AssemblyInfo.cs
+E:\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.csproj.CoreCompileInputs.cache
+E:\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.dll
+E:\MyProject\MyProject.Common\obj\Debug\net6.0\refint\MyProject.Common.dll
+E:\MyProject\MyProject.Common\obj\Debug\net6.0\MyProject.Common.pdb
+E:\MyProject\MyProject.Common\obj\Debug\net6.0\ref\MyProject.Common.dll
